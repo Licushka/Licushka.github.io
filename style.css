@@ -1,0 +1,169 @@
+.menu {
+    margin-top:2%;
+    justify-content: center;
+}
+.kuklumba{
+    margin-top:3%;
+    background-color: lightpink;
+}
+.Klumba{
+    margin-top:7%;
+    font-size:5vw;
+    font-family: "Gill Sans", sans-serif;
+}
+.TxtKlumba{
+    font-size:3vw;
+}
+.ButtonKatalog{
+    margin-top:7%;
+}
+.WordKatalog{
+    margin-top:60%;
+    font-size:3.5vw;
+    font-family: sans-serif;
+}
+.rose{
+    margin-top:20%;
+    font-size:2vw;
+    font-family: sans-serif;
+}
+.roseinfo{
+   margin-top:10%; 
+   font-size:1.2vw;
+   font-family: Georgia, serif;
+}
+.tulip{
+   margin-top:40%;
+   font-size:2vw;
+   font-family: sans-serif;
+    border-color: black white white;
+    border-style: solid;
+
+}
+.tulipinfo{
+   margin-top:10%; 
+   font-size:1.2vw;
+   font-family: Georgia, serif;
+}
+.tulipimg{
+     margin-top:60%;
+   
+}
+.chrysanthemums{
+     margin-top:20%;
+     font-size:2vw;
+     font-family: sans-serif;
+     border-color: black white white;
+     border-style: solid;
+
+}
+.chrysanthemumsinfo{
+    margin-top:10%; 
+    font-size:1.2vw;
+    font-family: Georgia, serif;
+}
+.chrysanthemumsimg{
+    margin-top:35%;
+}
+.bouquets{
+   margin-top:20%;
+   font-size:2vw;
+   font-family: sans-serif;
+   border-color: black white white;
+   border-style: solid;
+
+}
+.bouquetsinfo{
+    margin-top:10%; 
+    font-size:1.2vw;
+    font-family: Georgia, serif;
+}
+.bouquetsimg{
+    margin-top:35%;
+}
+.greens{
+   margin-top:20%;
+   font-size:2vw;
+   font-family: sans-serif;
+   border-color: black white white;
+   border-style: solid;
+}
+.greensinfo{
+   margin-top:10%; 
+   font-size:1.2vw;
+   font-family: Georgia, serif;
+}
+.greensimg{
+   margin-top:28%;
+}
+.ButtonZakaz{
+     margin-top:30%;
+     margin-left: 30%;
+}
+.WordDelivery{
+    font-size:3.5vw;
+    font-family: sans-serif;
+    background-color:lightpink;
+}
+.Delivery{
+    margin-top:15%;
+    background-color:lightpink;
+}
+.deliveryimg{
+    margin-top:20%;
+}
+.fast{
+    margin-top:20%;
+    font-size:2.5vw;
+    font-family: sans-serif;
+    border-color: black white white;
+    border-style: solid;
+}
+.fastinfo{
+    
+   font-size:1.2vw;
+   font-family: Georgia, serif;
+}
+.free{
+    margin-top:5%;
+    font-size:2.5vw;
+    font-family: sans-serif;
+    border-color: black white white;
+    border-style: solid;
+}
+.freeinfo{
+  
+   font-size:1.2vw;
+   font-family: Georgia, serif;
+} 
+.sale{
+    margin-top:5%;
+    font-size:2.5vw;
+    font-family: sans-serif;
+    border-color: black white white;
+    border-style: solid;
+}
+.saleinfo{
+   
+   font-size:1.2vw;
+   font-family: Georgia, serif;
+}
+.BIGTEXT{
+   font-size:3.5vw;
+    font-family: sans-serif;
+    background-color:lightpink;
+}
+.BigText{
+    margin-top:15%;
+    background-color:lightpink;
+}
+
+.Name{
+    margin-top: 20%;
+}
+.Girlsimg{
+    margin-top: 20%;
+}
+.ButtonForma{
+    margin-top: 10%;
+}
